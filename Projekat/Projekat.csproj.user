@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBrisanjePodataka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDodavanjePodataka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmIzmenaPodataka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKorisPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPregledRezervacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPrijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRezervacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUslovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

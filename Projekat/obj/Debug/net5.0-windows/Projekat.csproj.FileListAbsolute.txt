@@ -1,0 +1,78 @@
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.AssemblyReference.cache
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPrijava.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.GenerateResource.cache
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfoInputs.cache
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfo.cs
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.exe
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.deps.json
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.json
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.dev.json
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.dll
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\ref\Projekat.dll
+C:\Users\RVeVe\source\repos\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.pdb
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.dll
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\ref\Projekat.dll
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.pdb
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.genruntimeconfig.cache
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmUslovi.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmKorisPanel.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPregledRezervacija.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmRezervacija.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmAdminPanel.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmBrisanjePodataka.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmDodavanjePodataka.resources
+C:\Users\RVeVe\source\repos\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmIzmenaPodataka.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.exe
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.deps.json
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.json
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.dev.json
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.dll
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\ref\Projekat.dll
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.pdb
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.AssemblyReference.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmAdminPanel.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmBrisanjePodataka.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmDodavanjePodataka.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmIzmenaPodataka.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmKorisPanel.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPregledRezervacija.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPrijava.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmRezervacija.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmUslovi.resources
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.GenerateResource.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfoInputs.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfo.cs
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.dll
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\ref\Projekat.dll
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.pdb
+C:\Users\RVeVe\Desktop\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.genruntimeconfig.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.exe
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.deps.json
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.json
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.runtimeconfig.dev.json
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.dll
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\ref\Projekat.dll
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\bin\Debug\net5.0-windows\Projekat.pdb
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.AssemblyReference.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmAdminPanel.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmBrisanjePodataka.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmDodavanjePodataka.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmIzmenaPodataka.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmKorisPanel.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPregledRezervacija.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmPrijava.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmRezervacija.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.frmUslovi.resources
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.GenerateResource.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfoInputs.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.AssemblyInfo.cs
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.csproj.CoreCompileInputs.cache
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.dll
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\ref\Projekat.dll
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.pdb
+D:\VeVeRiCa\Faks\Projekti\Tehnike vizuelnog programiranja\Projekat\Projekat\obj\Debug\net5.0-windows\Projekat.genruntimeconfig.cache
